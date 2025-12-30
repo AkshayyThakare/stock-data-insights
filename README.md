@@ -64,9 +64,9 @@ This platform addresses these challenges by:
 ---
 
 ## Tableau Dashboard Preview
-![Dashboard Overview](images/dashboard_overview.png)
+![Dashboard Overview](images/Dashboard.png)
 ![Trend Analysis](images/trend_analysis.png)
-![Volume Insights](images/volume_analysis.png)
+![Volume Insights](images/volume_insights.png)
 
 ---
 
