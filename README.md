@@ -23,7 +23,7 @@ This platform addresses these challenges by:
 ---
 
 ## Architecture & Workflow
-![Architecture Diagram](images/architecture.png)
+![Architecture Diagram](images/analytics_workflow.png)
 
 1. Data Collection (Kaggle – NSE Stock Dataset)
 2. Data Cleaning & Preprocessing (Python)
